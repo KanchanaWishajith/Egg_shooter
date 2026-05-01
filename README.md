@@ -1,6 +1,6 @@
 # Egg Shooter 🥚🔫
 
-Welcome to **Egg Shooter**, an exciting and fun third-person / first-person shooter game built in Unity! Battle against waves of enemies using an arsenal of weapons, grenades, and melee attacks. 
+Welcome to **Egg Shooter**, an exciting and fun first-person shooter game built in Unity! Battle against waves of enemies using an arsenal of weapons, grenades, and melee attacks. 
 
 ## Features 🌟
 
@@ -19,7 +19,7 @@ Welcome to **Egg Shooter**, an exciting and fun third-person / first-person shoo
 ### Installation
 1.  Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Egg_shooter.git
+    https://github.com/KanchanaWishajith/Egg_shooter.git
     ```
 2.  Open Unity Hub.
 3.  Click on **Open** and navigate to the cloned `Egg_shooter` directory.
@@ -47,11 +47,6 @@ Welcome to **Egg Shooter**, an exciting and fun third-person / first-person shoo
 *   **Shoot/Attack:** Left Mouse Click / On-screen Button
 *   **Throw Grenade:** G / On-screen Button
 *   **Pause:** Escape
-
-## Recent Updates 📝
-*   Converted the game to a fully offline, solo-player mode.
-*   Fixed player movement, shooting functionality, and UI initialization errors for the offline environment.
-*   Optimized player skin and weapon loadout systems.
 
 ## License 📄
 This project is for educational and showcase purposes. Please check the repository for any specific licensing information regarding third-party assets used.
